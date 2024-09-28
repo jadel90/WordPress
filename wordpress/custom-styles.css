@@ -1,0 +1,16 @@
+.horizontal-menu {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.horizontal-menu li {
+    margin-right: 20px; 
+}
+
+.horizontal-menu a {
+    text-decoration: none;
+    color: #333; 
+    font-weight: bold;
+}

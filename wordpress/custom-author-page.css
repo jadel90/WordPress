@@ -1,0 +1,31 @@
+/* custom-author-page.css */
+
+.author-header {
+    
+    background-repeat: no-repeat; 
+    width: 194px; 
+    height: 260px;
+    background-size: 194px 260px; 
+}
+
+.author-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 194px; 
+    height: 260px; 
+    
+    background-repeat: no-repeat;
+    background-size: 194px 260px;
+    opacity: 0.5; 
+}
+
+.author-name {
+    font-size: 36px; 
+    margin-top: 200px; 
+    font-family: 'Open Sans', sans-serif;
+}
+
+.author-description {
+    font-size: 18px; 
+}

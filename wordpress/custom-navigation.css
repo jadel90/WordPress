@@ -1,0 +1,22 @@
+#pages {
+  list-style-type: none; /* Removes default list styling */
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Clears the float */
+}
+
+#pages li {
+  float: left; /* Aligns the list items horizontally */
+}
+
+#pages li a {
+  display: block;
+  padding: 8px 16px; 
+  text-decoration: none;
+  color: #000; 
+  background-color: #f3f3f3; 
+}
+
+#pages li a:hover {
+  background-color: #ddd; 
+}
